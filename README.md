@@ -2,6 +2,8 @@
 
 Este projeto realiza o sorteio de um amigo secreto, foi desenvolvido em JavaScript, HTML e CSS. Ele permite adicionar nomes a uma lista de amigos e sortear um nome aleatório entre os amigos adicionados.
 
+-Link para a página do projeto: https://keyllagomes.github.io/Challenge-Amigo-Secreto-Alura/
+
 ## 🚀 Funcionalidades
 - Adicionar amigos à lista
 - Impedir nomes duplicados
